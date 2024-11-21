@@ -1,2 +1,2 @@
 # Noroz-Ahmed
-I am Front End Developer
+Learning Software Development.
